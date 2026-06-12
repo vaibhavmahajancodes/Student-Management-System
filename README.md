@@ -16,5 +16,6 @@
 - 📌 Data Management Techniques 🚀
 
 ### Run:
-
+"""
 python main.py
+"""
