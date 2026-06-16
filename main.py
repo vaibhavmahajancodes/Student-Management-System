@@ -21,7 +21,7 @@ def add_student(students):
     students.append({
         "roll": roll,
         "name": name,
-        "marks": marks
+        "marks": marks,
     })
     save_students(students)
     print("Student added successfully!")
